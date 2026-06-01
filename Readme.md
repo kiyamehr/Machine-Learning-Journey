@@ -32,7 +32,7 @@ Machine learning feels like that. Harder, yes. But worth it.
 
 ---
 
-## 📅 My learning path (rough)
+## 📅 My learning path
 
 1. **Python basics** (done, not in this repo)
 2. **NumPy** – arrays, math, distributions ✅
