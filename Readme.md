@@ -1,6 +1,6 @@
 # My Machine Learning Journey
 
-> *"I don't know if I'll succeed. I really don't. But I'm showing my work anyway."*
+## Documenting my transition from frontend development to machine learning. One notebook at a time.
 
 After a 3-month internet blackout in Iran, I pivoted from frontend development to machine learning. This repo is where I document everything I learn — from the first line of NumPy code to (hopefully) understanding how models actually think.
 
@@ -12,10 +12,10 @@ I have zero ML projects right now. Just a notebook, a lot of questions, and a qu
 
 | Folder | Topic | Status |
 |--------|-------|--------|
-| `Numpy/` | NumPy basics (arrays, operations, distributions) | ✅ Started |
-| `Pandas/` | Data manipulation with DataFrames | ✅ Started |
-| `Matplotlib/` | Data visualization and plotting | ✅ Started |
-| `Jadi Youtube Course/` | Following a Persian ML course | 🔄 In progress |
+| `Tools/Numpy/` | NumPy basics (arrays, operations, distributions) | ✅ Active |
+| `Tools/Pandas/` | Data manipulation with DataFrames | ✅ Active |
+| `Tools/Matplotlib/` | Data visualization and plotting | ✅ Active |
+| `Jadi Youtube Course/` | Persian ML course (Jadi) | 🔄 In progress |
 | `Andrew_Ng/` | Machine Learning Specialization (Andrew Ng) | 🔄 In progress |
 
 > ✅ Started = first scripts written, actively learning
@@ -52,4 +52,4 @@ If you've walked this path before — I'd genuinely love to hear from you. What 
 
 ## 📜 License
 
-MIT – use anything you find useful. No guarantees I know what I'm doing LOL 😁.
+MIT – use anything you find useful.
