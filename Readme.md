@@ -2,7 +2,7 @@
 
 ## Documenting my transition from frontend development to machine learning. One notebook at a time.
 
-After a 3-month internet blackout in Iran, I pivoted from frontend development to machine learning. This repo is where I document everything I learn — from the first line of NumPy code to (hopefully) understanding how models actually think.
+After a 3-month internet blackout in Iran, I pivoted from frontend development to machine learning. This repo is where I document everything I learn - from the first line of NumPy code to (hopefully) understanding how models actually think.
 
 I have zero ML projects right now. Just a notebook, a lot of questions, and a quiet determination to start over.
 
@@ -26,7 +26,7 @@ I have zero ML projects right now. Just a notebook, a lot of questions, and a qu
 
 ## 🧠 Why I'm doing this
 
-I used to build frontend components (JavaScript, Tailwind, HTML/CSS). But after months without reliable internet access, I realized I wanted something **deeper** — more about structure, logic, and how things actually *think*.
+I used to build frontend components (JavaScript, Tailwind, HTML/CSS). But after months without reliable internet access, I realized I wanted something **deeper** - more about structure, logic, and how things actually *think*.
 
 Machine learning feels like that. Harder, yes. But worth it.
 
@@ -46,7 +46,7 @@ Machine learning feels like that. Harder, yes. But worth it.
 
 ## 🙏 A note to experienced ML people
 
-If you've walked this path before — I'd genuinely love to hear from you. What surprised you? What do you wish you'd known on day one? Open an issue or connect on LinkedIn.
+If you've walked this path before - I'd genuinely love to hear from you. What surprised you? What do you wish you'd known on day one? Open an issue or connect on LinkedIn.
 
 ---
 
