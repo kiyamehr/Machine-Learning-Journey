@@ -4,7 +4,7 @@ def clean_titanic_data(dataset):
         from the Titanic surivival prediction Challenge
     """
     # Removing unrealated Columns
-    cleaned_data = dataset.drop(columns=["Name"])
+    cleaned_data = dataset.drop(columns=["Name", "PassengerId"])
 
     # Changing genders to numbers
     cleaned_data = cleaned_data.rename(columns={"Sex": "isFemale"})
@@ -36,5 +36,9 @@ def clean_titanic_data(dataset):
     cleaned_data["Cabin"] = cleaned_data["Cabin"].fillna("U")
 
     cleaned_data["Cabin"] = cleaned_data["Cabin"].astype("category").cat.codes
+
+    # Cleaning Fare
+    fare_mean = cleaned_data["Fare"].mean()
+    cleaned_data["Fare"] = cleaned_data["Fare"].fillna(fare_mean)
 
     return cleaned_data
