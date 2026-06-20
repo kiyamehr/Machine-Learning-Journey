@@ -15,7 +15,7 @@ I have zero ML projects right now. Just a notebook, a lot of questions, and a qu
 | `Tools/Numpy/` | NumPy basics (arrays, operations, distributions) | ✅ Active |
 | `Tools/Pandas/` | Data manipulation with DataFrames | ✅ Active |
 | `Tools/Matplotlib/` | Data visualization and plotting | ✅ Active |
-| `Jadi Youtube Course/` | Persian ML course (Jadi) | 🔄 In progress |
+| `Jadi Youtube Course/` | Persian ML course (Jadi) | ✅ Active |
 | `Andrew_Ng/` | Machine Learning Specialization (Andrew Ng) | 🔄 In progress |
 
 > ✅ Started = first scripts written, actively learning
