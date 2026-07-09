@@ -3,3 +3,4 @@
 .vscode
 __pycache__/
 test_debug.py
+.ipynb_checkpoints/
