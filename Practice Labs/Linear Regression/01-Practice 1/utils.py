@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np # type: ignore
 
 def gen_data():
     np.random.seed(42)
