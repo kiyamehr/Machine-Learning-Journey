@@ -14,3 +14,7 @@ def gen_data():
     X = x.reshape(-1,1)
     
     return X, y
+
+def show_first_five(arrays):
+    for i in range (len(arrays)):
+        print(arrays[i][:5])
