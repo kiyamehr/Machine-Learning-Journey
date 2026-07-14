@@ -17,6 +17,7 @@ I have zero ML projects right now. Just a notebook, a lot of questions, and a qu
 | `Tools/Matplotlib/` | Data visualization and plotting | ✅ Active |
 | `Jadi Youtube Course/` | Persian ML course (Jadi) | ✅ Active |
 | `Andrew_Ng/` | Machine Learning Specialization (Andrew Ng) | 🔄 In progress |
+| `Andrew_Ng/` | Deep Learning Specialization (Andrew Ng) | 📅 Planned |
 
 > ✅ Started = first scripts written, actively learning
 > 🔄 In progress = working through systematically
