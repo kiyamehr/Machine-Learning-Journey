@@ -36,11 +36,11 @@ Machine learning feels like that. Harder, yes. But worth it.
 ## 📅 My learning path
 
 1. **Python basics** (done, not in this repo)
-2. **NumPy** – arrays, math, distributions ✅
-3. **Pandas** – DataFrames, merging, cleaning ✅ (started)
-4. **Matplotlib** – plotting, scattering, visuals ✅ (started)
-5. **Andrew Ng's ML Specialization** – In Progress
-6. **Small projects** – regression, classification, then...
+2. **NumPy** - arrays, math, distributions ✅
+3. **Pandas** - DataFrames, merging, cleaning ✅ (started)
+4. **Matplotlib** - plotting, scattering, visuals ✅ (started)
+5. **Andrew Ng's ML Specialization** - In Progress
+6. **Small projects** - regression, classification, then...
 7. **Who knows?** I'm still at the beginning.
 
 ---
@@ -53,4 +53,4 @@ If you've walked this path before - I'd genuinely love to hear from you. What su
 
 ## 📜 License
 
-MIT – use anything you find useful.
+MIT - use anything you find useful.
