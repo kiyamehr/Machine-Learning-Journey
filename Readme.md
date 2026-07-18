@@ -10,17 +10,20 @@ I have zero ML projects right now. Just a notebook, a lot of questions, and a qu
 
 ## 📚 What you'll find here
 
-| Folder | Topic | Status |
-|--------|-------|--------|
-| `Tools/Numpy/` | NumPy basics (arrays, operations, distributions) | ✅ Active |
-| `Tools/Pandas/` | Data manipulation with DataFrames | ✅ Active |
-| `Tools/Matplotlib/` | Data visualization and plotting | ✅ Active |
-| `Jadi Youtube Course/` | Persian ML course (Jadi) | ✅ Active |
-| `Andrew_Ng/` | Machine Learning Specialization (Andrew Ng) | 🔄 In progress |
-| `Andrew_Ng/` | Deep Learning Specialization (Andrew Ng) | 📅 Planned |
+| Directory | Description | Status |
+|-----------|-------------|:------:|
+| `courses/andrew-ng/machine-learning-specialization/` | Machine Learning Specialization by Andrew Ng | 🔄 In Progress |
+| `courses/andrew-ng/deep-learning-specialization/` | Deep Learning Specialization by Andrew Ng | 📅 Planned |
+| `courses/jadi-youtube-course/` | Persian Machine Learning course by Jadi | ✅ Completed |
+| `practice-labs/` | Hands-on implementations and experiments covering regression, classification, tree-based models, and neural networks | 🔄 Active |
+| `tools/numpy/` | NumPy fundamentals: arrays, vectorized operations, statistics, and random distributions | ✅ Active |
+| `tools/pandas/` | Data manipulation, cleaning, transformation, and DataFrame operations | ✅ Active |
+| `tools/matplotlib/` | Data visualization and plotting techniques | ✅ Active |
+| `utilities/preprocessing/` | Reusable preprocessing utilities (e.g., feature scaling and data preparation) | 🔄 Growing |
+| `utilities/model-tuning/` | Reusable model tuning utilities (e.g., XGBoost hyperparameter tuning) | 🔄 Growing |
 
 > ✅ Started = first scripts written, actively learning
-> 🔄 In progress = working through systematically
+> 🔄 In progress & Growing = working through systematically
 > 📅 Planned = next on my list
 
 ---
