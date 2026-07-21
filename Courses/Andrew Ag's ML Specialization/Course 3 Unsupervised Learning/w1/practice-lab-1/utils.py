@@ -42,7 +42,7 @@ def plot_kMeans_RGB(X, centroids, idx, K):
     ax.set_xlabel('R value - Redness')
     ax.set_ylabel('G value - Greenness')
     ax.set_zlabel('B value - Blueness')
-    ax.w_yaxis.set_pane_color((0., 0., 0., .2))
+    ax.yaxis.set_pane_color((0., 0., 0., .2))
     ax.set_title("Original colors and their color clusters' centroids")
     plt.show()
 
